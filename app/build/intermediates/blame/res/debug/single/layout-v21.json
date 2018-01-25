@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Samer\\AndroidStudioProjects\\Tasks2Do\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Samer\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\30af3c741c42bf3b16a60cda1307ee14\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samer\\AndroidStudioProjects\\Tasks2Do\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Samer\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\30af3c741c42bf3b16a60cda1307ee14\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samer\\AndroidStudioProjects\\Tasks2Do\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Samer\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\30af3c741c42bf3b16a60cda1307ee14\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samer\\AndroidStudioProjects\\Tasks2Do\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Samer\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\30af3c741c42bf3b16a60cda1307ee14\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]
